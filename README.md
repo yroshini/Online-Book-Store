@@ -66,13 +66,13 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 | Feature | Screenshot |
 |--------|------------|
 | Admin Dashboard | ![Admin Home](/Screenshots/admin-home.png) |
-| View All Books | ![Admin Books](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-books.png?raw=true) |
-| Add New Book | ![Add Book](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-add-book.png?raw=true) |
-| Modify Book Details | ![Modify Book](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-book-modify.png?raw=true) |
-| Search Books | ![Book Search](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-book-search.png?raw=true) |
-| Search Users | ![User Search](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-search-user.png?raw=true) |
-| View All Users | ![View Users](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-view-users.png?raw=true) |
-| View Orders | ![Orders](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-view-orders.png?raw=true) |
+| View All Books | ![Admin Books](/Screenshots/admin-books.png?raw=true) |
+| Add New Book | ![Add Book](/Screenshots/admin-add-book.png?raw=true) |
+| Modify Book Details | ![Modify Book](/Screenshots/admin-book-modify.png?raw=true) |
+| Search Books | ![Book Search](/Screenshots/admin-book-search.png?raw=true) |
+| Search Users | ![User Search](/Screenshots/admin-search-user.png?raw=true) |
+| View All Users | ![View Users](/Screenshots/admin-view-users.png?raw=true) |
+| View Orders | ![Orders](/Screenshots/admin-view-orders.png?raw=true) |
 
 ---
 
