@@ -11,13 +11,11 @@
 - View all book listings (including inactive)
 - Access order and review history
 - Full search and filter options
-- Moderate reviews and ratings
 
 ### 🧑‍💼 Registered User
 - Register, login, and manage profile
 - View and search books by title/author
 - Add to cart and place orders
-- Post reviews and ratings
 - View order history
 
 ### 👀 Guest
