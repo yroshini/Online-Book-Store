@@ -2,7 +2,6 @@
 
 ## **BookSphere** is a full-featured online bookstore web application designed using **JSP, Servlets, JDBC, and MySQL**. It offers role-based access for Admin, Registered Users, and Guests, allowing a seamless and dynamic experience for browsing, managing, and purchasing books.
 
----
 
 ## 🚀 Features
 
