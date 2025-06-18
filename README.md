@@ -54,27 +54,55 @@
 
 📺 [Click here to watch the demo on Google Drive](https://drive.google.com/file/d/1fmdu7G9BNVQw2Uj-540KXVnSCBWQoeJO/view?usp=sharing)
 
-_(Replace the above link with your actual video URL)_
 
 ---
 
 ## 🖼️ Project Screenshots
 
-| UI Page | Screenshot |
-|--------|-------------|
-| Homepage | ![](https://drive.google.com/uc?id=your-image-id1) |
-| Login Page | ![](https://drive.google.com/uc?id=your-image-id2) |
-| Register Page | ![](https://drive.google.com/uc?id=your-image-id3) |
-| Book Listing | ![](https://drive.google.com/uc?id=your-image-id4) |
-| Book Details | ![](https://drive.google.com/uc?id=your-image-id5) |
-| Search Results | ![](https://drive.google.com/uc?id=your-image-id6) |
-| Cart Page | ![](https://drive.google.com/uc?id=your-image-id7) |
-| Checkout Page | ![](https://drive.google.com/uc?id=your-image-id8) |
-| Admin Dashboard | ![](https://drive.google.com/uc?id=your-image-id9) |
-| Add Book Page | ![](https://drive.google.com/uc?id=your-image-id10) |
+Below are some screenshots of various modules of **BookSphere** to showcase the interface for Admin, User, and Guest roles.
 
-📁 *To get these links:*  
-Open each image in Google Drive → Right-click → "Preview" → Copy the file ID → Replace `your-image-idX` above with that ID.
+### 🔐 Admin Views
+
+| Feature | Screenshot |
+|--------|------------|
+| Admin Dashboard | ![Admin Home](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-home.png?raw=true) |
+| View All Books | ![Admin Books](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-books.png?raw=true) |
+| Add New Book | ![Add Book](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-add-book.png?raw=true) |
+| Modify Book Details | ![Modify Book](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-book-modify.png?raw=true) |
+| Search Books | ![Book Search](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-book-search.png?raw=true) |
+| Search Users | ![User Search](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-search-user.png?raw=true) |
+| View All Users | ![View Users](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-view-users.png?raw=true) |
+| View Orders | ![Orders](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-view-orders.png?raw=true) |
+
+---
+
+### 🧑‍💼 User Views
+
+| Feature | Screenshot |
+|--------|------------|
+| User Dashboard | ![User Home](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/user-home.png?raw=true) |
+| Book Listings | ![User Books](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/user-books.png?raw=true) |
+| Search Books | ![User Search](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/user-search.png?raw=true) |
+| View Orders | ![User Orders](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/user-orders.png?raw=true) |
+| Profile Management | ![User Profile](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/user-profile.png?raw=true) |
+
+---
+
+### 👀 Guest Views
+
+| Feature | Screenshot |
+|--------|------------|
+| Guest Homepage | ![Guest Home](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/guest-home.png?raw=true) |
+| Browse Books | ![Guest Books](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/guest-books.png?raw=true) |
+| Search Books | ![Guest Search](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/guest-search.png?raw=true) |
+
+---
+
+### 🛢️ Database Overview
+
+| Feature | Screenshot |
+|--------|------------|
+| MySQL Database View | ![MySQL DB](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/mysql-db.png?raw=true) |
 
 ---
 
