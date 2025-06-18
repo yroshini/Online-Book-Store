@@ -80,11 +80,11 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 
 | Feature | Screenshot |
 |--------|------------|
-| User Dashboard | ![User Home](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/user-home.png?raw=true) |
-| Book Listings | ![User Books](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/user-books.png?raw=true) |
-| Search Books | ![User Search](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/user-search.png?raw=true) |
-| View Orders | ![User Orders](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/user-orders.png?raw=true) |
-| Profile Management | ![User Profile](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/user-profile.png?raw=true) |
+| User Dashboard | ![User Home](/Screenshots/user-home.png?raw=true) |
+| Book Listings | ![User Books](/Screenshots/user-books.png?raw=true) |
+| Search Books | ![User Search](/Screenshots/user-search.png?raw=true) |
+| View Orders | ![User Orders](/Screenshots/user-orders.png?raw=true) |
+| Profile Management | ![User Profile](/Screenshots/user-profile.png?raw=true) |
 
 ---
 
@@ -92,9 +92,9 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 
 | Feature | Screenshot |
 |--------|------------|
-| Guest Homepage | ![Guest Home](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/guest-home.png?raw=true) |
-| Browse Books | ![Guest Books](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/guest-books.png?raw=true) |
-| Search Books | ![Guest Search](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/guest-search.png?raw=true) |
+| Guest Homepage | ![Guest Home](/Screenshots/guest-home.png?raw=true) |
+| Browse Books | ![Guest Books](/Screenshots/guest-books.png?raw=true) |
+| Search Books | ![Guest Search](/Screenshots/guest-search.png?raw=true) |
 
 ---
 
@@ -102,7 +102,7 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 
 | Feature | Screenshot |
 |--------|------------|
-| MySQL Database View | ![MySQL DB](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/mysql-db.png?raw=true) |
+| MySQL Database View | ![MySQL DB](/Screenshots/mysql-db.png?raw=true) |
 
 ---
 
