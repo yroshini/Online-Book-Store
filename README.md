@@ -58,40 +58,40 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 | Feature | Screenshot |
 |--------|------------|
 | Admin Dashboard | ![Admin Home](/Screenshots/admin-home.png) |
-| View All Books | ![Admin Books](/Screenshots/admin-books.png?raw=true) |
-| Add New Book | ![Add Book](/Screenshots/admin-add-book.png?raw=true) |
-| Modify Book Details | ![Modify Book](/Screenshots/admin-book-modify.png?raw=true) |
-| Search Books | ![Book Search](/Screenshots/admin-book-search.png?raw=true) |
-| Search Users | ![User Search](/Screenshots/admin-search-user.png?raw=true) |
-| View All Users | ![View Users](/Screenshots/admin-view-users.png?raw=true) |
-| View Orders | ![Orders](/Screenshots/admin-view-orders.png?raw=true) |
+| View All Books | ![Admin Books](/Screenshots/admin-books.png) |
+| Add New Book | ![Add Book](/Screenshots/admin-add-book.png) |
+| Modify Book Details | ![Modify Book](/Screenshots/admin-book-modify.png) |
+| Search Books | ![Book Search](/Screenshots/admin-book-search.png) |
+| Search Users | ![User Search](/Screenshots/admin-search-user.png) |
+| View All Users | ![View Users](/Screenshots/admin-view-users.png) |
+| View Orders | ![Orders](/Screenshots/admin-view-orders.png) |
 
 
 ### 🧑‍💼 User Views
 
 | Feature | Screenshot |
 |--------|------------|
-| User Dashboard | ![User Home](/Screenshots/user-home.png?raw=true) |
-| Book Listings | ![User Books](/Screenshots/user-books.png?raw=true) |
-| Search Books | ![User Search](/Screenshots/user-search.png?raw=true) |
-| View Orders | ![User Orders](/Screenshots/user-orders.png?raw=true) |
-| Profile Management | ![User Profile](/Screenshots/user-profile.png?raw=true) |
+| User Dashboard | ![User Home](/Screenshots/user-home.png) |
+| Book Listings | ![User Books](/Screenshots/user-books.png) |
+| Search Books | ![User Search](/Screenshots/user-search.png) |
+| View Orders | ![User Orders](/Screenshots/user-orders.png) |
+| Profile Management | ![User Profile](/Screenshots/user-profile.png) |
 
 
 ### 👀 Guest Views
 
 | Feature | Screenshot |
 |--------|------------|
-| Guest Homepage | ![Guest Home](/Screenshots/guest-home.png?raw=true) |
-| Browse Books | ![Guest Books](/Screenshots/guest-books.png?raw=true) |
-| Search Books | ![Guest Search](/Screenshots/guest-search.png?raw=true) |
+| Guest Homepage | ![Guest Home](/Screenshots/guest-home.png) |
+| Browse Books | ![Guest Books](/Screenshots/guest-books.png) |
+| Search Books | ![Guest Search](/Screenshots/guest-search.png) |
 
 
 ### 🛢️ Database Overview
 
 | Feature | Screenshot |
 |--------|------------|
-| MySQL Database View | ![MySQL DB](/Screenshots/mysl-db.png?raw=true) |
+| MySQL Database View | ![MySQL DB](/Screenshots/mysl-db.png) |
 
 
 ## 🛠️ How to Run
