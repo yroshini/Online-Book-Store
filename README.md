@@ -102,7 +102,7 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 
 | Feature | Screenshot |
 |--------|------------|
-| MySQL Database View | ![MySQL DB](/Screenshots/mysql-db.png?raw=true) |
+| MySQL Database View | ![MySQL DB](/Screenshots/mysl-db.png?raw=true) |
 
 ---
 
