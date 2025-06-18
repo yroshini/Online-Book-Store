@@ -65,7 +65,7 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 
 | Feature | Screenshot |
 |--------|------------|
-| Admin Dashboard | ![Admin Home](https://github.com/roshini/Online-Book-Store/Screenshots/admin-home.png) |
+| Admin Dashboard | ![Admin Home](/Screenshots/admin-home.png) |
 | View All Books | ![Admin Books](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-books.png?raw=true) |
 | Add New Book | ![Add Book](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-add-book.png?raw=true) |
 | Modify Book Details | ![Modify Book](https://github.com/roshini/Online-Book-Store/blob/main/Screenshots/admin-book-modify.png?raw=true) |
