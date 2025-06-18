@@ -120,7 +120,8 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 ## ✍️ Author
 
 **Roshini Yajjavarapu**  
-📧 roshiniyajjavarapu@example.com *(optional)*  
+📧 roshini.ece2024.rce@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/roshini-y-291905253/)
 🎓 Java Full Stack Developer  
 
 ---
