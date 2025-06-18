@@ -121,7 +121,7 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 
 **Roshini Yajjavarapu**  
 📧 roshini.ece2024.rce@gmail.com 
-[LinkedIn](https://www.linkedin.com/in/roshini-y-291905253/)
+🌐 [LinkedIn](https://www.linkedin.com/in/roshini-y-291905253/)
 🎓 Java Full Stack Developer  
 
 ---
