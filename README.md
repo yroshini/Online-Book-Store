@@ -1,7 +1,6 @@
 # 📚 BookSphere: A Dynamic Online Book Store
 
 ## **BookSphere** is a full-featured online bookstore web application designed using **JSP, Servlets, JDBC, and MySQL**. It offers role-based access for Admin, Registered Users, and Guests, allowing a seamless and dynamic experience for browsing, managing, and purchasing books.
----
 
 ## 🚀 Features
 
@@ -23,7 +22,6 @@
 - Basic search functionality
 - Encouraged to register/login for full features
 
----
 
 ## 🔎 Key Functional Pages
 
@@ -45,14 +43,11 @@
 - **Database:** MySQL  
 - **Tools:** Apache Tomcat, Eclipse IDE  
 
----
 
 ## 🎬 Demo Video
 
 📺 [Click here to watch the demo on Google Drive](https://drive.google.com/file/d/1fmdu7G9BNVQw2Uj-540KXVnSCBWQoeJO/view?usp=sharing)
 
-
----
 
 ## 🖼️ Project Screenshots
 
@@ -71,7 +66,6 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 | View All Users | ![View Users](/Screenshots/admin-view-users.png?raw=true) |
 | View Orders | ![Orders](/Screenshots/admin-view-orders.png?raw=true) |
 
----
 
 ### 🧑‍💼 User Views
 
@@ -83,7 +77,6 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 | View Orders | ![User Orders](/Screenshots/user-orders.png?raw=true) |
 | Profile Management | ![User Profile](/Screenshots/user-profile.png?raw=true) |
 
----
 
 ### 👀 Guest Views
 
@@ -93,7 +86,6 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 | Browse Books | ![Guest Books](/Screenshots/guest-books.png?raw=true) |
 | Search Books | ![Guest Search](/Screenshots/guest-search.png?raw=true) |
 
----
 
 ### 🛢️ Database Overview
 
@@ -101,7 +93,6 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 |--------|------------|
 | MySQL Database View | ![MySQL DB](/Screenshots/mysl-db.png?raw=true) |
 
----
 
 ## 🛠️ How to Run
 
@@ -112,7 +103,6 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 5. Run on `localhost:8080/BookSphere/`
 6. Use login credentials or register as a new user
 
----
 
 ## ✍️ Author
 
@@ -121,9 +111,4 @@ Below are some screenshots of various modules of **BookSphere** to showcase the 
 🌐 [LinkedIn](https://www.linkedin.com/in/roshini-y-291905253/)
 🎓 Java Full Stack Developer  
 
----
-
-## 📜 License
-
-This project is open-source and free to use for educational purposes.
 
